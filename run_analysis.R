@@ -110,8 +110,6 @@ newDataSet <- cbind(X_merged, activitylabel, S_merged)
 newDSMean <- newDataSet %>% group_by(activitylabel,subject) %>% summarize_all(funs(mean))
 write.table(newDSMean, file = "./data/UCI HAR Dataset/tidydata.txt", row.names = FALSE, col.names = TRUE)
 
-##9. Generate the Code book for the Script file 
-library(knitr)
 
 
 

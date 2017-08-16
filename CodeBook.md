@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Course - Week 4 Assignment 
 
-Vasudevan Durairaj 
+Vasudevan D 
 
 ### Description
 Additional information about the variables, data and transformations used in the Course. 

@@ -1,4 +1,4 @@
-# Getting_and_Cleaning_Data_Assgmt
+# Getting_and_Cleaning_Data_Assignment
 Week 4 Assignment for Getting and Cleaning Data Course 
 
 This repo was created as part of the assignment for week 4 of Getting and Cleaning Data course in Data Sceience Specilization.
